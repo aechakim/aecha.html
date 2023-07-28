@@ -16,9 +16,6 @@ body {
   }
 </style>
 
-<p><center>SOCIAL MEDIA ACCOUNT.</center></p>
-</font>
-</font>
 
 
 <img>
