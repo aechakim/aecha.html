@@ -4,6 +4,7 @@
 </head>
           <h1><center>Visit My Social Media Account</center></h1>      
           <hr>
+          <br>
 </head> 
 
 <style>
@@ -13,6 +14,12 @@ body {
  height: 100vh;
  background position: center;
   }
+</style>
+
+<p><center>SOCIAL MEDIA ACCOUNT.</center></p>
+</font>
+</font>
+
 
 <img>
 <center><img src="me.jpg" alt="image" hieght="400" width="350"></center>
