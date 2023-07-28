@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Alexisnicole</title>
@@ -16,9 +15,6 @@ body {
  background position: center;
   }
 </style>
-
-<font color-"black">
-<p><center>SOCIAL MEDIA ACCOUNT.</center></p>
 </font>
 </font>
 
@@ -33,5 +29,3 @@ body {
 <center><a href="https://www.facebook.com/alexisnicole.abraham">Facebook</a></center>
 <center><a href="https://mail.google.com/mail/u/3/#inbox">Gmail</a><center>
 
-
-</div>
