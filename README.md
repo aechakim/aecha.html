@@ -3,8 +3,6 @@
 <title>Alexisnicole</title>
 </head>
           <h1><center>Visit My Social Media Account</center></h1>      
-</head> 
-
 <style>
 body {
  background-image: url(taekook.jpg);
